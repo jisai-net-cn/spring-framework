@@ -55,3 +55,6 @@ settings.gradle.projectsLoaded {
 		}
 	}
 }
+include 'jisai-spring-mvc-test'
+include 'jisai-spring-test'
+
